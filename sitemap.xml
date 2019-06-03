@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://paigebernier.github.io/posts/helloworld/</loc>
+    <loc>https://paigebernier.github.io/posts/helloworld/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://paigebernier.github.io/about/</loc>
+    <loc>https://paigebernier.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://paigebernier.github.io/categories/</loc>
+    <loc>https://paigebernier.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paigebernier.github.io/posts/</loc>
+    <loc>https://paigebernier.github.io/posts/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paigebernier.github.io/tags/</loc>
+    <loc>https://paigebernier.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paigebernier.github.io/</loc>
+    <loc>https://paigebernier.github.io/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
