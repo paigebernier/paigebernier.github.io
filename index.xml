@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>paigerduty</title>
     <link>https://paigerduty.com/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on paigerduty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://paigerduty.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talks</title>
+      <link>https://paigerduty.com/talks/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://paigerduty.com/talks/</guid>
+      <description>2019 DevOpsDays PDX - Best Vends: The How + Why to Befriend Your Vendor
+2018 DevOpsDays ZH - Microservices Means Macrocommunication
+Girls Have IT Day - Keynote
+2017 DevOpsDaysPDX - Disposable Infrastructure: You Only Build Me Up To Tear Me Down</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://paigerduty.com/about/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://paigerduty.com/about/</guid>
+      <description>about hiiiii. i&amp;rsquo;m paige.
+i&amp;rsquo;ve been in tech for about 5 years starting out in People Operations -&amp;gt; Product Engineering -&amp;gt; Site Reliability Engineering
+i have a degree in Engineering Management (yes this is a thing) and went to a bootcamp (yes you should hire bootcamp grads)
+i&amp;rsquo;m starting this site as a place to document learnings, post notes from good books, takeaways from conference talks, and recommendations
+topics of interest:</description>
+    </item>
     
     <item>
       <title>hello world</title>
@@ -17,16 +42,9 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://paigerduty.com/posts/helloworld/</guid>
-      <description>just a little place to note my thoughts</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://paigerduty.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paigerduty.com/about/</guid>
-      <description> work in progress </description>
+      <description>hello world welcome to my blog! it is the Terminal theme, Hugo, hosted by GitHub Pages.
+when the .dev domains were released i had a fun afternoon checking to see if various and hilarious to me domains were available.
+paigerduty was and here we are.</description>
     </item>
     
   </channel>

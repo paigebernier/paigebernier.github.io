@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
+    <title>Posts on paigerduty</title>
     <link>https://paigerduty.com/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <description>Recent content in Posts on paigerduty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://paigerduty.com/posts/helloworld/</guid>
-      <description>just a little place to note my thoughts</description>
+      <description>hello world welcome to my blog! it is the Terminal theme, Hugo, hosted by GitHub Pages.
+when the .dev domains were released i had a fun afternoon checking to see if various and hilarious to me domains were available.
+paigerduty was and here we are.</description>
     </item>
     
   </channel>
