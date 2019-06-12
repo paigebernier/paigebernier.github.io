@@ -18,22 +18,7 @@
       
       <guid>https://paigerduty.com/talks/</guid>
       <description>2019 DevOpsDays PDX - Best Vends: The How + Why to Befriend Your Vendor
-2018 DevOpsDays ZH - Microservices Means Macrocommunication
-Girls Have IT Day - Keynote
-2017 DevOpsDaysPDX - Disposable Infrastructure: You Only Build Me Up To Tear Me Down</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://paigerduty.com/about/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://paigerduty.com/about/</guid>
-      <description>about hiiiii. i&amp;rsquo;m paige.
-i&amp;rsquo;ve been in tech for about 5 years starting out in People Operations -&amp;gt; Product Engineering -&amp;gt; Site Reliability Engineering
-i have a degree in Engineering Management (yes this is a thing) and went to a bootcamp (yes you should hire bootcamp grads)
-i&amp;rsquo;m starting this site as a place to document learnings, post notes from good books, takeaways from conference talks, and recommendations
-topics of interest:</description>
+If you are on the “buy” side of build versus buy this talk is for you! By buying a vendor’s product you are inviting them to be a part of your team and your platform - why not make the most out of your investment? From participating in betas to simply reading vendor emails I will give you a dazzling array of activities you can do today to start on the path of becoming best vends.</description>
     </item>
     
     <item>
@@ -45,6 +30,19 @@ topics of interest:</description>
       <description>hello world welcome to my blog! it is the Terminal theme, Hugo, hosted by GitHub Pages.
 when the .dev domains were released i had a fun afternoon checking to see if various and hilarious to me domains were available.
 paigerduty was and here we are.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://paigerduty.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paigerduty.com/about/</guid>
+      <description>about hiiiii. i&amp;rsquo;m paige.
+i&amp;rsquo;ve been in tech for about 5 years starting out in People Operations -&amp;gt; Product Engineering -&amp;gt; Site Reliability Engineering
+i have a degree in Engineering Management (yes this is a thing) and went to a bootcamp (yes you should hire bootcamp grads)
+i&amp;rsquo;m starting this site as a place to document learnings, post notes from good books, takeaways from conference talks, and recommendations
+topics of interest:</description>
     </item>
     
   </channel>
