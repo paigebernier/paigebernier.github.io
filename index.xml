@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paigerduty</title>
@@ -6,19 +6,14 @@
     <description>Recent content on paigerduty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://paigerduty.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://paigerduty.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talks</title>
       <link>https://paigerduty.com/talks/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://paigerduty.com/talks/</guid>
-      <description>2019 DevOpsDays PDX - Best Vends: The How + Why to Befriend Your Vendor
-If you are on the “buy” side of build versus buy this talk is for you! By buying a vendor’s product you are inviting them to be a part of your team and your platform - why not make the most out of your investment? From participating in betas to simply reading vendor emails I will give you a dazzling array of activities you can do today to start on the path of becoming best vends.</description>
+      <description>2019 DevOpsDays PDX - Best Vends: The How + Why to Befriend Your Vendor If you are on the “buy” side of build versus buy this talk is for you! By buying a vendor’s product you are inviting them to be a part of your team and your platform - why not make the most out of your investment? From participating in betas to simply reading vendor emails I will give you a dazzling array of activities you can do today to start on the path of becoming best vends.</description>
     </item>
     
     <item>
